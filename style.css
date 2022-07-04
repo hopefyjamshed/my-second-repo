@@ -1,3 +1,8 @@
 h1{
     color: pink;
 }
+p{
+    color: brown;
+    background-color: aqua;
+    width: 75%;
+}
